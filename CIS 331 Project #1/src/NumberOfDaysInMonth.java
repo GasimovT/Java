@@ -2,7 +2,7 @@
  * Tofig Gasimov
  * Date: Fall 2020
  *
- * CIS 331-Section-2
+ * CIS 331
  * My submission of this program indicates that I have neither received nor
 given substantial or unauthorized assistance in writing this program.
 *

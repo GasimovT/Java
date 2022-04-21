@@ -41,7 +41,7 @@ public class AssigningGrades {
         System.out.print("Enter the number of students: ");
         int index = scanner.nextInt();
 
-        //Declaring array
+        //Instantiating an array
         int[] array = new int[index];
 
         //Prompting user to enter scores

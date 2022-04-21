@@ -32,7 +32,7 @@ public class PrintingDistinctNumbers {
         //Creating scanner object for input
         Scanner scanner = new Scanner(System.in);
 
-        //Declaring two arrays
+        //Instantiating two arrays
         int[] array = new int[10];
         int[] distinctArray = new int[10];
 

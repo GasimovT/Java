@@ -1,0 +1,6 @@
+student1 3 B 4 B 3 C
+student2 4 A 3 A 4 B
+student3 4 A 4 D 3 B 1 A 3 C
+student4 3 A 3 A 4 A
+student5 4 A 2 C 3 B 3 A
+student6 3 D 3 B 4 F
